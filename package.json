@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "http-server -p 8801",
-    "test": "cypress open",
-    "postinstall": "cd ./public && npm install"
+    "test": "cypress open"
   },
   "author": "",
   "license": "ISC",
